@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+8DAY - Cổng Game Cá Cược Uy Tín, Đa Dạng Sảnh Chơi, Khuyến Mãi Hấp Dẫn
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`8DAY <https://8day.lgbt/>`_ là một nền tảng cá cược trực tuyến ra mắt năm 2018, được cấp phép bởi PAGCOR, nổi bật với sự uy tín và minh bạch. 8DAY cung cấp đa dạng sản phẩm như slots, bắn cá, cá cược thể thao, casino trực tuyến, game Việt và xổ số. Với ưu đãi hấp dẫn như thưởng nạp, khuyến mãi tân binh và tỷ lệ thưởng cao, 8DAY thu hút hàng trăm người chơi đăng ký mỗi ngày.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 6/1 A ấp Xuân Thới Đông 1, Xuân Thới Đông, Hóc Môn, Hồ Chí Minh, Vietnam. 
 
-   This project is under active development.
+Phone: 0785552223. 
 
-Contents
---------
+Email: info@8day.lgbt. 
 
-.. toctree::
+Website: https://8day.lgbt/ 
 
-   usage
-   api
+#8day #nhacai8day #trangchu8day #dangky8day #link8day
